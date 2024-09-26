@@ -30,4 +30,7 @@
 # Day-28 (Sets)
 # Day-29 (Sets-Methods)
 # Day-30 (Dictionary)
-# Day-31 (Dictionary-Method)
+# Day-31 (Dictionary-Methods)
+# Day-32 (For-Else)
+# Day-33 (Exception)
+# Day-34 (Table)
